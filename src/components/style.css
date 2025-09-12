@@ -59,8 +59,11 @@ input{
 /* Placeholder styling */
 input[type="text"]::placeholder {
     color: rgba(255, 255, 255, 0.7);
-    font-size:1.5em
+    font-size:1.5em;
+
 }
+
+
 
 /* Input focus styling */
 input[type="text"]:focus {
