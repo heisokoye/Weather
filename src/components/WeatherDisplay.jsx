@@ -57,7 +57,7 @@ export default function WeatherDisplay() {
 
   return (
     <div className="min-h-screen bg-white flex items-center justify-center p-6">
-      <div className="w-full max-w-md bg-black/10 border border-neutral-100 p-8 rounded-[2.5rem] shadow-sm transition-all">
+      <div className="w-full max-w-md bg-black/30 border border-neutral-100 p-8 rounded-[2.5rem] shadow-sm transition-all">
         
         {/* Header */}
         <header className="text-center mb-8">
